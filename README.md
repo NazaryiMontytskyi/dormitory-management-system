@@ -1,4 +1,4 @@
-# Object Oriented Design. Dormitory Oriented System
+# Object Oriented Design. Dormitory Management System
 
 ## Introduction
 
