@@ -1,0 +1,11 @@
+com.montytskyi
+com.montytskyi.Bookings.Implementations
+com.montytskyi.Bookings.Interfaces
+com.montytskyi.DormitoriesPlaces.Implementations
+com.montytskyi.DormitoriesPlaces.Interfaces
+com.montytskyi.Residences.Implementations
+com.montytskyi.Residences.Interfaces
+com.montytskyi.Statuses.Implementations
+com.montytskyi.Statuses.Interfaces
+com.montytskyi.Userables.Implementations
+com.montytskyi.Userables.Intrefaces
